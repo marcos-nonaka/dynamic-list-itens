@@ -68,3 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+###
+
+This project is based on: https://medium.com/reactbrasil/criando-lista-din%C3%A2mica-utilizando-reactjs-38f5faf65431#:~:text=Criando%20lista%20din%C3%A2mica%20utilizando%20ReactJS%20English%20version%3A%20A,remover%20itens%20de%20listas%20em%20tempo%20de%20execu%C3%A7%C3%A3o.
